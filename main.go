@@ -5,7 +5,7 @@ import (
 	"os"
 
 	"github.com/antlr/antlr4/runtime/Go/antlr"
-	"github.com/koki/antlr-play/parser"
+	"github.com/wlan0/antlr-play/parser"
 )
 
 func main() {

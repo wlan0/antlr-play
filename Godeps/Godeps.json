@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/koki/antlr-play",
+	"ImportPath": "github.com/wlan0/antlr-play",
 	"GoVersion": "go1.10",
 	"GodepVersion": "v79",
 	"Deps": [
